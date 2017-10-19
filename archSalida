@@ -1,0 +1,9 @@
+Inicio de  la compilacion
+Declara A,Entera
+Declara CC,Entera
+Declara Temp&1,Entera
+Restar CC,15Temp&1
+Declara Temp&2,Entera
+Sumar Temp&1,ATemp&2
+Almacena Temp&2,A
+Fin de la compilacion
